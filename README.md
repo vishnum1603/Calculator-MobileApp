@@ -1,6 +1,6 @@
 # React Native Calculator App
 
-A simple and responsive calculator mobile app built with React Native.
+A simple and responsive calculator mobile app built with React Native expo.
 
 ## Features
 
